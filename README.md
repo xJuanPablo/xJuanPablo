@@ -1,8 +1,6 @@
 ### Hi, there 👋
 
-I am Juan from Texas, but you can call me Pablo. I am a life-long learner at heart with a background in real estate. However, my path has now led me to the exhilarating world of web development. I enjoy the challenges web development offers and relish the opportunities it offers for creative expression. 
-
-I am excited to further develop my skills, one line at a time.
+I am Juan from Texas, but you can call me Pablo. I am a life-long learner at heart with a background in real estate. However, my path has now led me to the exhilarating world of web development. I am excited to further develop my skills, one line at a time.
 
 <!--
 **xJuanPablo/xJuanPablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-### Hi, there 👋
+# Hi, there 👋
 
 I am Juan from Texas, but you can call me Pablo. I am a life-long learner at heart with a background in real estate. However, my path has now led me to the exhilarating world of web development. I am excited to further develop my skills, one line at a time.
 
@@ -10,7 +10,7 @@ I am Juan from Texas, but you can call me Pablo. I am a life-long learner at hea
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=gruvbox&card_width=325) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xJuanPablo&theme=gruvbox&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## I would love to connect
+## Connect with me!  ⬇️
 
 <a href="https://github.com/xJuanPablo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a> <a href="https://www.linkedin.com/in/juan-archuleta-267991193/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> <a href=mailto:“pabloarchuleta@gmail.com”><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
 <!--

@@ -1,6 +1,14 @@
 # Hi, there 👋
 
-I am Juan from Texas, but you can call me Pablo. I am a life-long learner at heart with a background in real estate. However, my path has now led me to the exhilarating world of web development. I am excited to further develop my skills, one line at a time.
+I'm Pablo — a Texas native with a love for punk rock, cooking, and all things web development. As a lifelong learner, I've found a real passion for building on the web, and I'm constantly expanding my skill set with new tools, frameworks, and even math.
+
+When I’m not coding, you’ll probably find me jamming on my guitar 🎸 or spending time with friends. I love creating, problem-solving, and learning something new every day.
+
+🎯 Currently learning:
+
+Discrete Math  |  Python  |  TypeScript
+
+Let’s build something cool.
 
 ## Skills
 <h4>Front End: </h4> 

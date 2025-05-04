@@ -6,7 +6,7 @@ When I’m not coding, you’ll probably find me jamming on my guitar 🎸 or sp
 
 🎯 Currently learning:
 
-Discrete Math  |  TypeScript  |  Docker
+Statistics  |  Discrete Math  |  TypeScript  |  Docker
 
 Let’s build something cool.
 

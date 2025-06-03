@@ -22,7 +22,7 @@ Let’s build something cool.
 
 ## Connect with me!  ⬇️
 
-<a href="https://github.com/xJuanPablo" target='_blank'><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a> <a href="https://www.linkedin.com/in/juan-archuleta-267991193/" target='_blank' rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>  <a href="https://pablos-tech-tide.com/" target='_blank' rel="noreferrer"> ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=React&logoColor=#FF7139) </a>
+<a href="https://www.linkedin.com/in/juan-archuleta-267991193/" target='_blank' rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>  <a href="https://pablos-tech-tide.com/" target='_blank' rel="noreferrer"> ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=React&logoColor=#FF7139) </a>
 <!--
 **xJuanPablo/xJuanPablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

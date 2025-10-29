@@ -2,11 +2,13 @@
 
 I'm Pablo — a Texas native with a love for punk rock, cooking, and all things web development. As a lifelong learner, I've found a real passion for building on the web, and I'm constantly expanding my skill set with new tools, frameworks, and even math.
 
-When I’m not coding, you’ll probably find me jamming on my guitar 🎸 or spending time with friends. I love creating, problem-solving, and learning something new every day.
+When I’m not coding, you’ll probably find me jamming on my guitar or spending time with friends. I love creating, problem-solving, and learning something new every day.
 
-🎯 Currently learning:
+Currently learning:
 
 Statistics  |  Discrete Math  |  TypeScript  |  Docker
+
+Currently Earning my Bachelor of Science in Computer Science at University of the People
 
 Let’s build something cool.
 

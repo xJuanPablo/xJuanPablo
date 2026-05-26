@@ -8,8 +8,6 @@ Currently learning:
 
 Statistics  |  Discrete Math  |  Docker
 
-Currently Earning my Bachelor of Science in Computer Science at University of the People
-
 Let’s build something cool.
 
 ## Skills
